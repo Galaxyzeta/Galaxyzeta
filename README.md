@@ -1,7 +1,6 @@
 ### About Galaxyzeta
 
 - Backend developer in Golang and Java.
-- Writing game engine.
-- Novice chiptune music composer.
-- Trying hard to improve art.
-- Always wanted to publish my own game.
+- Nintendo fan. played a lot of games.
+- Developing my indie game.
+- Novice music composer and pixel artist.
